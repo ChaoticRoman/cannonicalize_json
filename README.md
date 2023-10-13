@@ -33,7 +33,7 @@ This repository provides two Python scripts that manipulate JSON files:
 
 ## Usage
 
-**Important Note: ** Both scripts modify the JSON files **in place**. This means
+**Important Note:** Both scripts modify the JSON files **in place**. This means
 that the original content of the file will be replaced with the formatted
 or compactified version. Make sure to back up your data or use version control
 before running these scripts if you want to keep the original format.
